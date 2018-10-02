@@ -1,1 +1,1 @@
-# Home Automation using Raspberry Pi
+# Home Automation System using Raspberry Pi
